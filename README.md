@@ -1,2 +1,2 @@
 # Catalog
-![Catalog](/assets/example.png)
+![Catalog](/assets/example3.png)
