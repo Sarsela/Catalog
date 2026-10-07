@@ -1,4 +1,4 @@
-import { images } from './assets/images/index.js'
+import { images } from '/assets/images/index.js'
 
 const data = {
     totalItems: 5,
